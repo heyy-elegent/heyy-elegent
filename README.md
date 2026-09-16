@@ -36,7 +36,6 @@ I'm **Lalit Kumar** — an AI/ML engineer and full-stack builder who loves turni
 | [**text-to-image**](https://github.com/heyy-elegent/Text_to_image_project) | Generative text-to-image experiments (private) |
 | [**weather**](https://github.com/heyy-elegent/weather) | Lightweight weather web app — HTML/CSS/JS |
 | [**numpy-probability-notebooks**](https://github.com/heyy-elegent/numpy-probability-notebooks) | NumPy probability simulation notebooks |
-| [**poisson-distribution**](https://github.com/heyy-elegent/poisson-distribution) | Poisson distribution exploration |
 
 ## 🛠 Tech Stack
 
@@ -94,7 +93,7 @@ I'm **Lalit Kumar** — an AI/ML engineer and full-stack builder who loves turni
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heyy-elegent/heyy-elegent/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/heyy-elegent/heyy-elegent/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </p>
 
 ---
