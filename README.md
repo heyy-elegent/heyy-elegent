@@ -24,6 +24,8 @@ This is my **research & experiments** account. I explore AI/ML models in Jupyter
 
 `Python` · `Java` · `C / C++` · `JavaScript` · `React` · `SQL / MySQL` · `MongoDB` · `REST APIs` · `Cloudflare Workers` · `D1/SQLite` · `DSA` · `ML Fundamentals` · `LLMs` · `LangChain`
 
+**Data & AI tools:** `Jupyter` · `Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `GCS` · `AWS S3` · `Hadoop`
+
 ## 📊 GitHub Stats
 
 <p align="center">
