@@ -22,7 +22,7 @@ This is my **research & experiments** account. I explore AI/ML models in Jupyter
 
 ## 🛠 Stack
 
-`Python` · `PyTorch` · `Jupyter` · `JavaScript` · `Cloudflare Workers` · `D1/SQLite` · `HTML/CSS`
+`Python` · `Java` · `C / C++` · `JavaScript` · `React` · `SQL / MySQL` · `MongoDB` · `REST APIs` · `Cloudflare Workers` · `D1/SQLite` · `DSA` · `ML Fundamentals` · `LLMs` · `LangChain`
 
 ## 📊 GitHub Stats
 
