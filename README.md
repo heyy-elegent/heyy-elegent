@@ -20,7 +20,7 @@
 
 I'm **Lalit Kumar** — an AI/ML engineer and full-stack builder who loves turning messy data and hard problems into elegant, working software.
 
-- 🔭 **Currently building** [`bgmi-market`](https://github.com/heyy-elegent/bgmi-market) — a full marketplace backend on Cloudflare Workers + D1
+- 🚀 **Built** [`bgmi-market`](https://github.com/heyy-elegent/bgmi-market) — a full marketplace backend on Cloudflare Workers + D1 (gateway, auth, wallet, verification, chat)
 - 🧬 **Exploring** deep learning, computer vision & GenAI (LLMs, LangChain, RAG)
 - 📊 **Playing with** Pandas, NumPy, Matplotlib, Plotly, Power BI & R
 - 📝 A **B.Tech CSE (AI & Data Science)** student at Poornima University
